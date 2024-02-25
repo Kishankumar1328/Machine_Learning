@@ -5,6 +5,7 @@
 
 |Machine learning|links|
 |----------------|-----|
+|Regression|
 |Linear Regression|[link](https://github.com/Kishankumar1328/C02-EMMISSION-BY-USING-SINGLE-LINEAR-REGRESSION-)
 |Multi Linear Regression|[link](https://github.com/Kishankumar1328/CO2-EMMISION-Multiple-linear-Regression-)
 |Non Linear Regression|[link](https://github.com/Kishankumar1328/Non-Linear-Regression)
